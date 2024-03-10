@@ -5,6 +5,12 @@ export default {
     extend: {
       fontFamily: {
         ojuju: ["Bebas Neue", "sans-serif"],
+        jakarta: ["Plus Jakarta Sans", "sans-serif"],
+        oswald: ["Oswald", "sans-serif"],
+      },
+      backgroundImage: {
+        main: "url('./src/assets/img/festival.jpeg')",
+        logo: "url('./src/assets/img/logo.png')",
       },
     },
     plugins: [],

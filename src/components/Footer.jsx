@@ -2,8 +2,8 @@ import React from "react";
 
 export default function Footer() {
   return (
-    <footer className="bg-gray-800 md:stiky button-0 z-50">
-      <div className="container mx-auto floex flex-wrap p-5 flex-col md:flex-row items-center">
+    <footer className="bg-trasparent">
+      <div className="container mx-auto flex flex-wrap items-center justify-end p-5">
         <h3>Cohort</h3>
       </div>
     </footer>
